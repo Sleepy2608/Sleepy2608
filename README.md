@@ -1,9 +1,9 @@
 <h1 align="center">Hi there!👋, I'm Nguyễn Lê Huy Tâm</h1>
-<h3 align="center">Software Engineer | Backend Developer | Problem Solver</h3>
+<h2 align="center">Software Engineer | Backend Developer | Problem Solver</h2>
 
 ---
 
-## 🚀 About Me
+## 🚀 About Me 🚀
 
 - 🎓 A student who is passionate about Game Development, App/Web Development, Problem Solving
 - 🧠 Currently learning: JS, Nodejs, Java
@@ -11,12 +11,12 @@
 - 🗣 Spoken languages:
   - Vietnamese, English
   - Currently learning: Japanese
-- 🛠 Interested in: Game dev, Game mechanic, Competitive programming, Algorithms and Backend dev
+- /-heart Interested in: Game dev, Game mechanic, Competitive programming, Algorithms and Backend dev
 - 🔥 I enhance my coding skills on LeetCode
 
 ---
 
-## 🧰 Languages & Tools
+## 🛠 Languages & Tools 🛠
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=cpp,mysql,java,git,github,vscode" />
