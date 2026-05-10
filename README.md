@@ -19,7 +19,7 @@
 ## 🧰 Languages & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,c,mysql,java,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=cpp,mysql,java,git,github,vscode" />
 </p>
 <!--
 
