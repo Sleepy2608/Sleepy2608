@@ -59,13 +59,13 @@
 
 <p align="center">
   <img
+    height="180em"
     src="https://github-readme-stats-sigma-five.vercel.app/api?username=Sleepy2608&show_icons=true&theme=tokyonight"
-    height="180"
   />
-  
+
   <img
+    height="180em"
     src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Sleepy2608&layout=compact&theme=tokyonight"
-    height="180"
   />
 </p>
 
