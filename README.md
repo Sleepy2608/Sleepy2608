@@ -14,6 +14,10 @@
 - 🗣 Spoken languages:
   - Vietnamese 🇻🇳, English 🇺🇸
   - Currently learning: Japanese 🇯🇵
+  - * 🇻🇳 Tiếng Việt
+* 🇺🇸 / 🇬🇧 Tiếng Anh
+* 🇯🇵 Tiếng Nhật
+
 <!--
 - 🛠 Interested in:
   - Backend Development
