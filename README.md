@@ -11,7 +11,7 @@
 - 🗣 Spoken languages:
   - Vietnamese, English
   - Currently learning: Japanese
-- ♡ Interested in: Game dev, Game mechanic, Competitive programming, Algorithms and Backend dev
+- ❤️ Interested in: Game dev, Game mechanic, Competitive programming, Algorithms and Backend dev
 - 🔥 I enhance my coding skills on LeetCode
 
 ---
