@@ -41,7 +41,8 @@
 
 ### 🔑 Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" /><img src="https://cdn.simpleicons.org/dbeaver/372923" width="48" height="48" alt="DBeaver"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+  <img src="https://img.shields.io/badge/DBeaver-372923?style=for-the-badge&logo=dbeaver&logoColor=white"/>
 </p>
 
 ---
@@ -51,25 +52,22 @@
   <img src="https://img.shields.io/badge/Raylib-000000?style=for-the-badge&logo=raylib&logoColor=white"/>
 </p>
 
-
-<!--
-
-- 🌱 Improving my problem-solving skills through coding challenges
-- 📫 Contact: **your-email@example.com**
-
-
-
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Sleepy2608&show_icons=true&theme=tokyonight" height="180"/>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sleepy2608&layout=compact&theme=tokyonight" height="180"/>
 </p>
 
 ---
+
+<!--
+
+- 🌱 Improving my problem-solving skills through coding challenges
+- 📫 Contact: **your-email@example.com**
 
 ## 🔥 Current Projects
 
