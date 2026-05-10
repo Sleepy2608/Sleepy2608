@@ -11,14 +11,8 @@
 - 🗣 Spoken languages:
   - Vietnamese, English
   - Currently learning: Japanese
-- 🛠 Interested in:
-  - Backend Development
-  - System Design
-  - Database Management
-<!--
-
-- 🌱 Improving my problem-solving skills through coding challenges
-- 📫 Contact: **your-email@example.com**
+- 🛠 Interested in: Game dev, Game mechanic, Competitive programming, Algorithms and Backend dev
+- 🔥 I enhance my coding skills on LeetCode
 
 ---
 
@@ -27,6 +21,12 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=cpp,c,mysql,java,git,github,vscode" />
 </p>
+<!--
+
+- 🌱 Improving my problem-solving skills through coding challenges
+- 📫 Contact: **your-email@example.com**
+
+
 
 ---
 
