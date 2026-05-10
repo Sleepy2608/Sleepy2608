@@ -6,23 +6,17 @@
 ## 🚀 About Me
 
 - 🎓 A student who is passionate about Game Development, App/Web Development, Problem Solving
-- 🧠 Currently learning:
-  - JS
-  - Nodejs
-  - Java
+- 🧠 Currently learning: JS, Nodejs, Java
 - 💻 Currently focusing on Game Development, Fullstack Development
 - 🗣 Spoken languages:
-  - Vietnamese 🇻🇳, English 🇺🇸
-  - Currently learning: Japanese 🇯🇵
-  - * 🇻🇳 Tiếng Việt
-* 🇺🇸 / 🇬🇧 Tiếng Anh
-* 🇯🇵 Tiếng Nhật
-
-<!--
+  - Vietnamese, English
+  - Currently learning: Japanese
 - 🛠 Interested in:
   - Backend Development
   - System Design
   - Database Management
+<!--
+
 - 🌱 Improving my problem-solving skills through coding challenges
 - 📫 Contact: **your-email@example.com**
 
