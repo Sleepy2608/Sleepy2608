@@ -42,10 +42,8 @@
 ### 🛠 Tools
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/DBeaver-372923?style=for-the-badge&logo=dbeaver&logoColor=white"/>
+  <img src="https://cdn.simpleicons.org/dbeaver/372923" width="48" height="48" alt="DBeaver"/>
 </p>
 
 ---
