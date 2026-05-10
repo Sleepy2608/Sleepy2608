@@ -18,8 +18,43 @@
 
 ## 🛠 Languages & Tools 🛠
 
+## 🧰 Tech Stack
+
+### 💻 Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,mysql,java,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,mysql" />
+</p>
+
+---
+
+### ⚙️ Backend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs" />
+</p>
+
+---
+
+### 🎨 Frontend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css" />
+</p>
+
+---
+
+### 🛠 Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/DBeaver-372923?style=for-the-badge&logo=dbeaver&logoColor=white"/>
+</p>
+
+---
+
+### 🎮 Other
+<p align="left">
+  <img src="https://img.shields.io/badge/Raylib-000000?style=for-the-badge&logo=raylib&logoColor=white"/>
 </p>
 
 
