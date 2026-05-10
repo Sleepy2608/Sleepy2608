@@ -8,11 +8,12 @@
 - 🎓 A student who is passionate about Game Development, App/Web Development, Problem Solving
 - 🧠 Currently learning: JS, Nodejs, Java
 - 💻 Currently focusing on Game Development, Fullstack Development
-- 🗣 Spoken languages:
-  - Vietnamese, English
-  - Currently learning: Japanese
+- 🌏 Spoken Languages:
+  - 🇻🇳 Vietnamese
+  - 🇺🇸 English
+  - 🇯🇵 Learning Japanese
 - ❤️ Interested in: Game dev, Game mechanic, Competitive programming, Algorithms and Backend dev
-- 🔥 I enhance my coding skills on LeetCode
+- 🔥 I enhance my coding skills by solving coding problems on LeetCode regularly
 
 ---
 
@@ -58,11 +59,17 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sleepy2608&show_icons=true&theme=tokyonight" height="180"/>
-  
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sleepy2608&layout=compact&theme=tokyonight" height="180"/>
 </p>
 
 ---
+
+## 🏆 LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Nunito&ext=contest" />
+</p>
 
 <!--
 
