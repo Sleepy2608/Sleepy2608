@@ -5,6 +5,7 @@
 
 ## 🚀 About Me 🚀
 
+- 😄 Pronouns: He / Him / Tâm / Justin
 - 🎓 A student who is passionate about Game Development, App/Web Development, Problem Solving
 - 🧠 Currently learning: JS, Nodejs, Java
 - 💻 Currently focusing on Game Development, Fullstack Development
@@ -12,7 +13,7 @@
   - 🇻🇳 Vietnamese
   - 🇺🇸 English
   - 🇯🇵 Learning Japanese
-- ❤️ Interested in: Game dev, Game mechanic, Competitive programming, Algorithms and Backend dev
+- ❤️ Interested in: Game dev, Game mechanic, Competitive programming, Algorithms and Fullstack
 - 🔥 I enhance my coding skills by solving coding problems on LeetCode regularly
 
 ---
