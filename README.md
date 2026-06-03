@@ -1,11 +1,11 @@
 <h1 align="center">Hi there!👋, I'm Nguyễn Lê Huy Tâm</h1>
-<h2 align="center">Software Engineer | Backend Developer | Problem Solver</h2>
+<h2 align="center">Software Engineer | Fullstack Developer | Problem Solver</h2>
 
 ---
 
 ## 🚀 About Me 🚀
 
-- 😄 Pronouns: He / Him / Tâm / Justin
+- 😄 Pronouns: He / Him / Tâm
 - 🎓 A student who is passionate about Game Development, App/Web Development, Problem Solving
 - 🧠 Currently learning: JS, Nodejs, Java
 - 💻 Currently focusing on Game Development, Fullstack Development
