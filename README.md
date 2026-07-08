@@ -5,15 +5,16 @@
 
 ## 🚀 About Me 🚀
 
-- 😄 Pronouns: He / Him / Tâm
+- 😄 Pronouns: He / Him 
 - 🎓 A student who is passionate about Game Development, App/Web Development, Problem Solving
-- 🧠 Currently learning: JS, Nodejs, Java
+- 🧠 Currently learning: Nodejs, Java
 - 💻 Currently focusing on Game Development, Fullstack Development
 - 🌏 Spoken Languages:
   - 🇻🇳 Vietnamese
   - 🇺🇸 English
   - 🇯🇵 Learning Japanese
-- ❤️ Interested in: Game dev, Game mechanic, Competitive programming, Algorithms and Fullstack
+- 🎯 Goals: Become a fullstack developer
+- ❤️ Interested in: Game dev, Competitive programming, Algorithms and Fullstack
 - 🔥 I enhance my coding skills by solving coding problems on LeetCode regularly
 - 📫 How to reach me:
   - Email: huytamnguyenle2608@gmail.com
