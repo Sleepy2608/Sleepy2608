@@ -17,8 +17,8 @@
 - ❤️ Interested in: Game dev, Competitive programming, Algorithms and Fullstack
 - 🔥 I enhance my coding skills by solving coding problems on LeetCode regularly
 - 📫 How to reach me:
-  - Email: huytamnguyenle2608@gmail.com
   - [LinkedIn](https://www.linkedin.com/in/huytamnguyenle/)
+  - [Facebook](https://www.facebook.com/tambuonngu)
 
 ---
 
