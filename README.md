@@ -6,8 +6,8 @@
 ## 🚀 About Me 🚀
 
 - 😄 Pronouns: He / Him 
-- 🎓 A student who is passionate about Game Development, App/Web Development, Problem Solving
-- 🧠 Currently learning: Nodejs, Java
+- 🎓 A college student who is passionate about Game Development, App/Web Development, Problem Solving
+- 🧠 Currently learning: Java (Spring Boot), Godot
 - 💻 Currently focusing on Game Development, Fullstack Development
 - 🌏 Spoken Languages:
   - 🇻🇳 Vietnamese
@@ -86,9 +86,12 @@
 
 ## 🏆 LeetCode Stats
 
-<p align="center">
+<div align="center">
+  <a href="https://leetcode.com/u/SleepyTam">Profile</a>
+  <br>
+  <br>
   <img src="https://leetcard.jacoblin.cool/SleepyTam?theme=dark&font=Nunito&ext=contest" />
-</p>
+</div>
 
 <!--
 
