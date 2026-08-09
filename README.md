@@ -5,17 +5,17 @@
 
 ## 🚀 About Me 🚀
 
-- 😄 Pronouns: He / Him 
-- 🎓 A college student who is passionate about Game Development, App/Web Development, Problem Solving
-- 🧠 Currently learning: Java (Spring Boot), Godot
-- 💻 Currently focusing on Game Development, Fullstack Development
+- ⭐ Main Language: C++, JavaScript.
+- 🎓 A college student who is passionate about Game Development, App/Web Development, Problem Solving.
+- 🧠 Currently learning: Java (Spring Boot).
+- 💻 Currently focusing on Game Development, Fullstack Development.
 - 🌏 Spoken Languages:
-  - 🇻🇳 Vietnamese
-  - 🇺🇸 English
-  - 🇯🇵 Learning Japanese
-- 🎯 Goals: Become a fullstack developer
-- ❤️ Interested in: Game dev, Competitive programming, Algorithms and Fullstack
-- 🔥 I enhance my coding skills by solving coding problems on LeetCode regularly
+  - 🇻🇳 (Vietnamese)
+  - 🇺🇸 (English)
+  - 🇯🇵 (Learning Japanese)
+- 🎯 Goals: Become a fullstack developer.
+- ❤️ Interested in: Game dev, Competitive programming, Algorithms and Fullstack.
+- 🔥 I enhance my coding skills by solving coding problems on LeetCode/Co regularly.
 - 📫 How to reach me:
   - [LinkedIn](https://www.linkedin.com/in/huytamnguyenle/)
   - [Facebook](https://www.facebook.com/tambuonngu)
@@ -72,13 +72,15 @@
 <p align="center">
   <img
     height="180em"
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=Sleepy2608&show_icons=true&theme=tokyonight"
+    src="https://github-stats-extended.vercel.app/api?username=Sleepy2608&show_icons=true&theme=tokyonight"
+    alt="GitHub Stats"
   />
-</p>
-<p align="center">
+  <br>
+  <br>
   <img
     height="180em"
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Sleepy2608&layout=compact&theme=tokyonight"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=Sleepy2608&layout=compact&theme=tokyonight"
+    alt="Top Languages"
   />
 </p>
 
@@ -95,50 +97,12 @@
 
 <!--
 
-- 🌱 Improving my problem-solving skills through coding challenges
-- 📫 Contact: **your-email@example.com**
+## 🏅 Codeforces Stats
 
-## 🔥 Current Projects
+<div align="center">
 
-- 🎮 Minesweeper Game in C++
-- 📚 Library Management System
-- 🗄 SQL Warehouse Management Database
-- 🌐 Networking Assignments & Simulations
+[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=SleepyTam)](https://codeforces.com/profile/SleepyTam)
 
----
+</div>
 
-## 🎯 Goals
-
-- Become a Backend Developer
-- Contribute to Open Source Projects
-- Build real-world applications
-- Improve Data Structures & Algorithms skills
-
----
-
-## 🌐 Connect With Me
-
-<p align="left">
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
-</p>
-
----
-
-⭐ From [YOUR_USERNAME](https://github.com/YOUR_USERNAME)
-
-
-**Sleepy2608/Sleepy2608** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
