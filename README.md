@@ -15,7 +15,7 @@
   - 🇯🇵 (Learning Japanese)
 - 🎯 Goals: Become a fullstack developer.
 - ❤️ Interested in: Game dev, Competitive programming, Algorithms and Fullstack.
-- 🔥 I enhance my coding skills by solving coding problems on LeetCode/Co regularly.
+- 🔥 I enhance my coding skills by solving coding problems on LeetCode regularly.
 - 📫 How to reach me:
   - [LinkedIn](https://www.linkedin.com/in/huytamnguyenle/)
   - [Facebook](https://www.facebook.com/tambuonngu)
@@ -87,23 +87,24 @@
 
 ---
 
-## 🏆 LeetCode Stats
+## 🏆 Competitive Programming Stats
 
 <div align="center">
-  <a href="https://leetcode.com/u/SleepyTam">Profile</a>
-  <br>
-  <br>
-  <img src="https://leetcard.jacoblin.cool/SleepyTam?theme=dark&font=Nunito&ext=contest" />
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <h3>🏅 LeetCode Stats</h3>
+        <a href="https://leetcode.com/u/SleepyTam">Leetcode Profile</a>
+        <br><br>
+        <img src="https://leetcard.jacoblin.cool/SleepyTam?theme=dark&font=Nunito&ext=contest" />
+      </td>
+      <td align="center" width="50%">
+        <h3>🏅 Codeforces Stats</h3>
+        <a href="https://codeforces.com/profile/SleepyTam">Codeforces Profile</a>
+        <br><br>
+        <img src="https://codeforces-readme-stats.vercel.app/api/card?username=SleepyTam" />
+      </td>
+    </tr>
+  </table>
 </div>
 
-<!--
-
-## 🏅 Codeforces Stats
-
-<div align="center">
-
-[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=SleepyTam)](https://codeforces.com/profile/SleepyTam)
-
-</div>
-
--->
