@@ -70,20 +70,29 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img
-    height="180em"
-    src="https://github-stats-extended.vercel.app/api?username=Sleepy2608&show_icons=true&theme=tokyonight"
-    alt="GitHub Stats"
-  />
-  <br>
-  <br>
-  <img
-    height="180em"
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=Sleepy2608&layout=compact&theme=tokyonight"
-    alt="Top Languages"
-  />
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <h3>📈 GitHub Stats</h3>
+        <br>
+        <img
+          src="https://github-stats-extended.vercel.app/api?username=Sleepy2608&show_icons=true&theme=tokyonight"
+          alt="GitHub Stats"
+        />
+      </td>
+      <td align="center" width="50%">
+        <h3>💻 Top Languages</h3>
+        <br>
+        <img
+          src="https://github-stats-extended.vercel.app/api/top-langs/?username=Sleepy2608&layout=compact&theme=tokyonight"
+          alt="Top Languages"
+        />
+      </td>
+    </tr>
+  </table>
+</div>
+
 
 ---
 
@@ -98,7 +107,7 @@
         <br><br>
         <img src="https://leetcard.jacoblin.cool/SleepyTam?theme=dark&font=Nunito&ext=contest" />
       </td>
-      <td align="center" width="50%">
+      <td align="center" valign="top" width="50%">
         <h3>🏅 Codeforces Stats</h3>
         <a href="https://codeforces.com/profile/SleepyTam">Codeforces Profile</a>
         <br><br>
