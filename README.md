@@ -74,7 +74,6 @@
   <table>
     <tr>
       <td align="center" width="50%">
-        <h3>📈 GitHub Stats</h3>
         <br>
         <img
           src="https://github-stats-extended.vercel.app/api?username=Sleepy2608&show_icons=true&theme=tokyonight"
@@ -82,7 +81,6 @@
         />
       </td>
       <td align="center" width="50%">
-        <h3>💻 Top Languages</h3>
         <br>
         <img
           src="https://github-stats-extended.vercel.app/api/top-langs/?username=Sleepy2608&layout=compact&theme=tokyonight"
