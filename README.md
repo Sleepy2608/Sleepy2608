@@ -16,9 +16,6 @@
 - 🎯 Goals: Become a fullstack developer.
 - ❤️ Interested in: Game dev, Competitive programming, Algorithms and Fullstack.
 - 🔥 I enhance my coding skills by solving coding problems on LeetCode regularly.
-- 📫 How to reach me:
-  - [LinkedIn](https://www.linkedin.com/in/huytamnguyenle/)
-  - [Facebook](https://www.facebook.com/tambuonngu)
 
 ---
 
@@ -65,6 +62,19 @@
   <img src="https://img.shields.io/badge/Raylib-000000?style=for-the-badge" alt="Raylib"/>
 </p>
 
+---
+
+## 📫 Contect with me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/huytamnguyenle/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="35" height="35" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.facebook.com/tambuonngu" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="35" height="35" alt="Facebook"/>
+  </a>
+</p>
 
 ---
 
@@ -115,3 +125,6 @@
   </table>
 </div>
 
+---
+
+<p align="center">Consistency is key so keep the fire up 🔥🔥🔥</p>
