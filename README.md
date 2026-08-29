@@ -6,14 +6,14 @@
 ## 🚀 About Me
 
 - ⭐ Main Language: C++, JavaScript.
-- 🎓 A college student who is passionate about Game Development, App/Web Development, Problem Solving.
+- 🎓 A college student who is passionate about App/Web Development, Game Development, Problem Solving.
 - 🧠 Currently learning: Java (Spring Boot).
-- 💻 Currently focusing on Game Development, Fullstack Development.
+- 💻 Currently focusing on Fullstack Development.
 - 🌏 Spoken Languages:
   - 🇻🇳 (Vietnamese)
   - 🇺🇸 (English)
   - 🇯🇵 (Learning Japanese)
-- 🎯 Goals: Become a fullstack developer.
+- 🎯 Goals: Become a Fullstack Developer.
 - ❤️ Interested in: Game dev, Competitive programming, Algorithms and Fullstack.
 - 🔥 I enhance my coding skills by solving coding problems on LeetCode regularly.
 
@@ -45,6 +45,7 @@
 <p align="left">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
 </p>
 
 ### 🔧 Tools & Platforms
@@ -64,15 +65,50 @@
 
 ---
 
-## 📫 Contect with me
+## 📫 Contact with me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/huytamnguyenle/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="35" height="35" alt="LinkedIn"/>
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
+      width="35"
+      height="35"
+      alt="LinkedIn"
+      title="LinkedIn"
+    />
   </a>
   &nbsp;&nbsp;
+
   <a href="https://www.facebook.com/tambuonngu" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="35" height="35" alt="Facebook"/>
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg"
+      width="35"
+      height="35"
+      alt="Facebook"
+      title="Facebook"
+    />
+  </a>
+  &nbsp;&nbsp;
+
+  <a href="https://leetcode.com/u/SleepyTam/" target="_blank">
+    <img
+      src="https://cdn.simpleicons.org/leetcode/FFA116"
+      width="35"
+      height="35"
+      alt="LeetCode"
+      title="LeetCode"
+    />
+  </a>
+  &nbsp;&nbsp;
+
+  <a href="https://codeforces.com/profile/SleepyTam" target="_blank">
+    <img
+      src="https://cdn.simpleicons.org/codeforces/1F8ACB"
+      width="35"
+      height="35"
+      alt="Codeforces"
+      title="Codeforces"
+    />
   </a>
 </p>
 
@@ -80,27 +116,17 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        <br>
-        <img
-          src="https://github-stats-extended.vercel.app/api?username=Sleepy2608&show_icons=true&theme=tokyonight"
-          alt="GitHub Stats"
-        />
-      </td>
-      <td align="center" width="50%">
-        <br>
-        <img
-          src="https://github-stats-extended.vercel.app/api/top-langs/?username=Sleepy2608&layout=compact&theme=tokyonight"
-          alt="Top Languages"
-        />
-      </td>
-    </tr>
-  </table>
-</div>
-
+<p align="center">
+  <img
+    src="https://github-stats-extended.vercel.app/api?username=Sleepy2608&show_icons=true&theme=tokyonight"
+    alt="GitHub Stats"
+  />
+  &nbsp;&nbsp;&nbsp;
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=Sleepy2608&layout=compact&theme=tokyonight"
+    alt="Top Languages"
+  />
+</p>
 
 ---
 
@@ -111,14 +137,10 @@
     <tr>
       <td align="center" width="50%">
         <h3>🏅 LeetCode Stats</h3>
-        <a href="https://leetcode.com/u/SleepyTam">Leetcode Profile</a>
-        <br><br>
         <img src="https://leetcard.jacoblin.cool/SleepyTam?theme=dark&font=Nunito&ext=contest" />
       </td>
       <td align="center" valign="top" width="50%">
         <h3>🏅 Codeforces Stats</h3>
-        <a href="https://codeforces.com/profile/SleepyTam">Codeforces Profile</a>
-        <br><br>
         <img src="https://codeforces-readme-stats.vercel.app/api/card?username=SleepyTam" />
       </td>
     </tr>
