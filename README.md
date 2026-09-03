@@ -7,7 +7,7 @@
 
 - ⭐ Main Language: C++, JavaScript.
 - 🎓 A college student who is passionate about App/Web Development, Game Development, Problem Solving.
-- 🧠 Currently learning: Java (Spring Boot).
+- 🧠 Currently learning: Java (Spring Boot), TypeScript.
 - 💻 Currently focusing on Fullstack Development.
 - 🌏 Spoken Languages:
   - 🇻🇳 (Vietnamese)
