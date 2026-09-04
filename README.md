@@ -68,6 +68,17 @@
 ## 📫 Contact with me
 
 <p align="left">
+  <a href="mailto:huytamnguyenle2608@gmail.com">
+    <img
+      src="https://cdn.simpleicons.org/gmail/EA4335"
+      width="35"
+      height="35"
+      alt="Gmail"
+      title="huytamnguyenle2608@gmail.com"
+    />
+  </a>
+  &nbsp;&nbsp;
+  
   <a href="https://www.linkedin.com/in/huytamnguyenle/" target="_blank">
     <img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
@@ -86,28 +97,6 @@
       height="35"
       alt="Facebook"
       title="Facebook"
-    />
-  </a>
-  &nbsp;&nbsp;
-
-  <a href="https://leetcode.com/u/SleepyTam/" target="_blank">
-    <img
-      src="https://cdn.simpleicons.org/leetcode/FFA116"
-      width="35"
-      height="35"
-      alt="LeetCode"
-      title="LeetCode"
-    />
-  </a>
-  &nbsp;&nbsp;
-
-  <a href="https://codeforces.com/profile/SleepyTam" target="_blank">
-    <img
-      src="https://cdn.simpleicons.org/codeforces/1F8ACB"
-      width="35"
-      height="35"
-      alt="Codeforces"
-      title="Codeforces"
     />
   </a>
 </p>
@@ -136,11 +125,27 @@
   <table>
     <tr>
       <td align="center" width="50%">
-        <h3>🏅 LeetCode Stats</h3>
+        <h3><a href="https://leetcode.com/u/SleepyTam/" target="_blank">
+            <img
+              src="https://cdn.simpleicons.org/leetcode/FFA116"
+              width="35"
+              height="35"
+              alt="LeetCode"
+              title="LeetCode"
+            />
+            </a> LeetCode Stats </h3>
         <img src="https://leetcard.jacoblin.cool/SleepyTam?theme=dark&font=Nunito&ext=contest" />
       </td>
       <td align="center" valign="top" width="50%">
-        <h3>🏅 Codeforces Stats</h3>
+        <h3><a href="https://codeforces.com/profile/SleepyTam" target="_blank">
+            <img
+              src="https://cdn.simpleicons.org/codeforces/1F8ACB"
+              width="35"
+              height="35"
+              alt="Codeforces"
+              title="Codeforces"
+            />
+            </a> Codeforces Stats</h3>
         <img src="https://codeforces-readme-stats.vercel.app/api/card?username=SleepyTam" />
       </td>
     </tr>
