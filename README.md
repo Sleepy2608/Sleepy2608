@@ -7,12 +7,12 @@
 
 - ⭐ Main Language: C++, JavaScript.
 - 🎓 A college student who is passionate about App/Web Development, Game Development, Problem Solving.
-- 🧠 Currently learning: Java (Spring Boot), TypeScript.
+- 🧠 Currently learning: Java, TypeScript.
 - 💻 Currently focusing on Fullstack Development.
 - 🌏 Spoken Languages:
   - 🇻🇳 (Vietnamese)
   - 🇺🇸 (English)
-  - 🇯🇵 (Learning Japanese)
+  - 🇯🇵 (Japanese)
 - 🎯 Goals: Become a Fullstack Developer.
 - ❤️ Interested in: Game dev, Competitive programming, Algorithms and Fullstack.
 - 🔥 I enhance my coding skills by solving coding problems on LeetCode regularly.
