@@ -61,6 +61,7 @@
 
 <p align="left">
   <img src="https://img.shields.io/badge/Raylib-000000?style=for-the-badge" alt="Raylib"/>
+  <img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black" alt="Unity"/>
 </p>
 
 ---
