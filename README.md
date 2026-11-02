@@ -1,5 +1,5 @@
 <h1 align="center">Hi there!👋, I'm Nguyễn Lê Huy Tâm</h1>
-<h2 align="center">Software Engineer | Fullstack Developer | Problem Solver</h2>
+<h2 align="center">Software Engineer | Game Developer</h2>
 
 ---
 
@@ -8,14 +8,14 @@
 - ⭐ Main Language: C++, JavaScript.
 - 🎓 A college student who is passionate about App/Web Development, Game Development, Problem Solving.
 - 🧠 Currently learning: Java, TypeScript.
-- 💻 Currently focusing on Fullstack Development.
+- 💻 Currently focusing on Software Engineer.
 - 🌏 Spoken Languages:
   - 🇻🇳 (Vietnamese)
   - 🇺🇸 (English)
-  - 🇯🇵 (Japanese)
-- 🎯 Goals: Become a Fullstack Developer.
-- ❤️ Interested in: Game dev, Competitive programming, Algorithms and Fullstack.
-- 🔥 I enhance my coding skills by solving coding problems on LeetCode regularly.
+  - 🇯🇵 (Japanese - studying)
+- 🎯 Goals: Become a Software Engineer.
+- ❤️ Interested in: Software engineering , Game dev, Competitive programming and Algorithms.
+- 🔥 I enhance my coding skills by solving coding problems on LeetCode.
 
 ---
 
