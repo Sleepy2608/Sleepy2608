@@ -1,0 +1,174 @@
+\documentclass[10pt,a4paper]{extarticle}
+
+% ---------- PACKAGES ----------
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{lmodern}
+\usepackage[
+    top=1.15cm,
+    bottom=1.15cm,
+    left=1.45cm,
+    right=1.45cm
+]{geometry}
+
+\usepackage{enumitem}
+\usepackage{titlesec}
+\usepackage{hyperref}
+\usepackage{xcolor}
+
+% ---------- COLORS ----------
+\definecolor{primary}{HTML}{1F3A5F}
+\definecolor{graytext}{HTML}{555555}
+
+% ---------- LINKS ----------
+\hypersetup{
+    colorlinks=true,
+    urlcolor=primary
+}
+
+% ---------- PAGE ----------
+\pagestyle{empty}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0pt}
+\setlength{\tabcolsep}{0pt}
+
+% ---------- SECTION ----------
+\titleformat{\section}
+{\normalsize\bfseries\color{primary}}
+{}{0em}{}[\titlerule]
+
+\titlespacing{\section}{0pt}{6pt}{3pt}
+
+% ---------- LIST ----------
+\setlist[itemize]{
+    leftmargin=1.2em,
+    itemsep=1pt,
+    topsep=1.5pt,
+    parsep=0pt,
+    partopsep=0pt
+}
+
+% ---------- PROJECT ----------
+\newcommand{\project}[2]{
+    \vspace{2pt}
+    \textbf{#1}
+    \hfill
+    {\small\textit{#2}}
+}
+
+\begin{document}
+
+% ================= HEADER =================
+
+\begin{center}
+    {\Large\bfseries\color{primary}
+    NGUYEN LE HUY TAM}\\[3pt]
+
+    \textbf{Software Engineer Intern \textbar{} Game Developer Intern}\\[4pt]
+
+    Ho Chi Minh City, Vietnam
+    \textbar{} 0764439931
+    \textbar{}
+    \href{mailto:huytamnguyenle@gmail.com}{huytamnguyenle@gmail.com}\\[2pt]
+
+    \href{https://github.com/Sleepy2608}{GitHub: github.com/Sleepy2608}
+    \textbar{}
+    \href{https://leetcode.com/u/SleepyTam/}{LeetCode: SleepyTam}
+    \textbar{}
+    \href{https://www.linkedin.com/in/huytamnguyenle/}{LinkedIn}
+\end{center}
+
+% ================= SUMMARY =================
+
+\section{PROFESSIONAL SUMMARY}
+
+Third-year Information Technology student with a solid foundation in Object-Oriented Programming (OOP), Data Structures \& Algorithms, and hands-on experience in Java, C++, Kotlin, and Web technologies. Passionate about software architecture and game mechanics. Seeking a part-time Software Engineer / Game Developer Internship to contribute to production projects and grow in a professional engineering environment.
+
+% ================= SKILLS =================
+
+\section{TECHNICAL SKILLS}
+
+\textbf{Languages:} C++, Java, JavaScript, TypeScript, Kotlin, Python
+
+\textbf{Frameworks \& Engines:} Spring Boot, Node.js, Android SDK, JavaFX, Raylib, Unity (Basic), HTML5/CSS3
+
+\textbf{Databases:} MySQL, PostgreSQL, SQLite
+
+\textbf{Tools \& Platforms:} Git, GitHub, Docker, Maven, Postman, Jira, IntelliJ IDEA, Android Studio
+
+\textbf{Core Concepts:} OOP, Data Structures \& Algorithms, Client-Server Architecture, Unit \& Black-box Testing
+
+% ================= PROJECTS =================
+
+\section{PROJECTS}
+
+% ---------- GARDEN EMPIRE ----------
+\project{1. Garden Empire -- Turn-based Strategy Game}
+{JavaScript | HTML5 | OOP}
+
+\begin{itemize}
+    \item Developed a web-based strategy game inspired by the engine-building board game Splendor.
+    \item Implemented core game loops, turn-based state management, and resource management mechanics using OOP.
+    \item Built interactive UI logic for token transactions, card purchasing, and dynamic victory point calculation.
+\end{itemize}
+
+\textbf{GitHub:}
+\href{https://github.com/Sleepy2608/GardenEmpireGame}
+{https://github.com/Sleepy2608/GardenEmpireGame}
+
+\vspace{3pt}
+
+% ---------- TASK MANAGEMENT APP ----------
+\project{2. Task Management App}
+{Kotlin | Android SDK | Software Testing}
+
+\begin{itemize}
+    \item Developed responsive Android UI components and implemented the Streak \& Rewards gamification feature.
+    \item Structured local data persistence and state handling to ensure consistent user task tracking offline.
+    \item Conducted rigorous software QA with 23 test suites and 208 unit tests (0 failures), plus 50 black-box test scenarios.
+\end{itemize}
+
+\textbf{GitHub:} 
+\href{https://github.com/ThaiDevv/Task-Management-App}
+{https://github.com/ThaiDevv/Task-Management-App}
+
+\vspace{3pt}
+
+% ---------- SINCHAT ----------
+\project{3. SinChat -- Real-time Messaging Desktop Application}
+{Java | JavaFX | TCP Socket | Maven}
+
+\begin{itemize}
+    \item Architected a desktop chat application utilizing Client-Server model with multi-threaded Java TCP Sockets.
+    \item Built real-time message routing, conversation state management, and custom JavaFX UI with unread badges.
+    \item Engineered non-blocking toast notification handling supporting up to 3 concurrent desktop alerts.
+\end{itemize}
+
+\textbf{GitHub:}
+\href{https://github.com/ThaiDevv/sinchat-network-programming}
+{https://github.com/ThaiDevv/sinchat-network-programming}
+
+% ================= EDUCATION =================
+
+\section{EDUCATION}
+
+\textbf{University of Transport Ho Chi Minh City (UTH)}
+\hfill \textit{2022 -- 2026 (Expected)}\\
+Bachelor of Information Technology
+\hfill \textit{Major: Software Engineering}
+
+% ================= ADDITIONAL =================
+
+\section{ADDITIONAL INFORMATION}
+
+\textbf{Languages:}
+Vietnamese (Native), English (Professional Working / Fluent), Japanese (Basic / Learning)
+
+\textbf{Problem Solving:}
+Active problem solver on LeetCode \& Codeforces; regular practice of algorithmic problems and optimization.
+
+\textbf{Availability:}
+Part-time Internship (Flexible schedule, ready for 20--30+ hours/week)
+
+\end{document}
+
